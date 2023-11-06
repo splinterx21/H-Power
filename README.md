@@ -74,7 +74,7 @@ wget https://filetransfer.nulink.org/release/nulink-0.2.0-py3-none-any.whl
 
 pip install nulink-0.2.0-py3-none-any.whl
 
-pip install --upgrade pip
+pip install - -upgrade pip
 
 source /root/nulink-venv/bin/activate
 
